@@ -1,4 +1,4 @@
-# Exp.No:2d
+# Exp.No:2D
 ## LOOPING PATTERNS - PRINTING PATTERN
 
 ### AIM  
